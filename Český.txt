@@ -462,8 +462,8 @@
 #463# Invertovat osa X
 #464# Invertovat Y osu
 #465# Tutorial
-#466# Single-player
-#467# Multi-player
+#466# Hra jednoho hráče
+#467# Hra pro více hráčů
 #468# Zatížení
 #469# Max rychlost těžby
 #470# čas Aktivace
@@ -491,7 +491,7 @@
 #492# CR obdržela
 #493# Ne kotví s lodí
 #494# Nové mise k dispozici
-#495# Station
+#495# Stanice
 #496# nestačí ČR
 #497# Cena
 #498# Mise selhala
